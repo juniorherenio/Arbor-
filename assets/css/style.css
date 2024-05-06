@@ -308,6 +308,8 @@ h3{
     margin-bottom: 15px;
 }
 
+/* ----- TESTES ----- */
+
 /* ----- ABOUT INFO ----- */
 .about-info{
     position: relative;
@@ -324,7 +326,7 @@ h3{
 .about-info p{
     text-align: center;
     font-size: 15px;
-    color: #777;
+    color: #999;
 }
 .about-btn button{
     position: absolute;
@@ -381,7 +383,7 @@ h3{
 }
 .project-box>i{
     font-size: 50px;
-    color: #00B5E7;
+    color: rgb(188, 204, 122);
     margin-bottom: 25px;
 }
 .project-box label{
@@ -487,7 +489,7 @@ textarea{
     color: var(--color-white);
 }
 .form-button>.btn:hover{
-    background: #27e700;
+    background: rgb(188, 204, 122);
 }
 .form-button i{
     font-size: 18px;
